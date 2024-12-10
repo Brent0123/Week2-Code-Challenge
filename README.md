@@ -46,6 +46,7 @@ This project addresses the common issue of managing shopping lists by providing 
 └── items-marked.png  # Screenshot with items marked as purchased
 
 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 MIT License
 
