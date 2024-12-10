@@ -50,7 +50,6 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 MIT License
 
-
 Copyright (c) 2024 Brent Cheruiyot 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
