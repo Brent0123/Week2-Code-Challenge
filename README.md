@@ -55,6 +55,9 @@ This project addresses the common issue of managing shopping lists by providing 
 ├── items-added.png   # Screenshot with items added
 └── items-marked.png  # Screenshot with items marked as purchased
 
+### Usage
+Once the app is running navigate to http://localhost3000 in your browser. You can add items to your shopping list by typing into the input field and clicking the "Add Item" button. The list will automatically update wwith each new item
+
 ### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
