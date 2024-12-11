@@ -32,7 +32,13 @@ This project addresses the common issue of managing shopping lists by providing 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Interactive-Shopping-List.git
+   git clone https://github.com/Brent0123/Week2-Code-Challenge
+
+     ### Technologies Used 
+
+     HTML
+     CSS 
+     JAVASRIPT
 
            Project Structure
    /Interactive-Shopping-List
