@@ -34,13 +34,17 @@ This project addresses the common issue of managing shopping lists by providing 
    ```bash
    git clone https://github.com/Brent0123/Week2-Code-Challenge
 
-     ### Technologies Used 
+2. **Open the Project Folder**
 
-     HTML
-     CSS 
-     JAVASRIPT
 
-           Project Structure
+ ### Technologies Used 
+
+     -HTML
+     -CSS 
+     -JAVASRIPT
+     
+### Project Structure
+
    /Interactive-Shopping-List
 │
 ├── styles.css        # CSS for styling the application
@@ -51,7 +55,7 @@ This project addresses the common issue of managing shopping lists by providing 
 ├── items-added.png   # Screenshot with items added
 └── items-marked.png  # Screenshot with items marked as purchased
 
-License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 MIT License
